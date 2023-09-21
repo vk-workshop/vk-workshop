@@ -56,7 +56,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vk-workshop&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?username=vk-workshop&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" />
