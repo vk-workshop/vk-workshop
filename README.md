@@ -56,5 +56,6 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
 
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
+<div>
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
+</div>
