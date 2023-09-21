@@ -64,5 +64,6 @@ Feel free to browse through my GitHub repositories to see some of my projects an
   </tr>
 </table>
 
+![vk-workshop's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vk-workshop&theme=dark&hide_border=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
