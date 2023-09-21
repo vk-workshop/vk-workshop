@@ -53,17 +53,8 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 
 ### ⚙️ GitHub statistics:
-   <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
-<table>
-  <tr>
-    <td>
-<!-- 	![vk-workshop's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vk-workshop&theme=dark&hide_border=true) -->
-    </td>
-	<td>
-<!--       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> -->
-    </td>
-  </tr>
-</table>
+<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
