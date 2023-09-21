@@ -56,7 +56,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 <table>
   <tr>
     <td>
-<!-- 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk-workshop&theme=dark"/></a> -->
+	![vk-workshop's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vk-workshop&theme=dark&hide_border=true)
     </td>
 	<td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" />
