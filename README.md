@@ -56,15 +56,13 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 <table>
   <tr>
     <td>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk-workshop&theme=dark"/></a>
+<!-- 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk-workshop&theme=dark"/></a> -->
     </td>
 	<td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk-workshop&theme=dark"/></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
