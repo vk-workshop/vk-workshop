@@ -64,7 +64,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
   </tr>
 </table>
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk-workshop&theme=dark"/></a>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=vk-workshop&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
