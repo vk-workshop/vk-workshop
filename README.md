@@ -53,7 +53,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 
 ### ⚙️ GitHub statistics:
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
+<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
 
 
 
