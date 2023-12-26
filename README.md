@@ -17,12 +17,6 @@ Hey there! 👋 I'm Volodymyr Kolisnichenko, a passionate and aspiring programme
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-When it comes to version control, I rely on Git to keep track of my projects, collaborate with others, and maintain code integrity.
-
-In addition to coding, I have a creative side that I express through design using tools like Figma. I believe in the power of combining functionality with aesthetics to deliver delightful user experiences.
-
-I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest industry trends. I enjoy tackling challenges and collaborating with others to build innovative web applications.
-
 Feel free to browse through my GitHub repositories to see some of my projects and contributions. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project!
 
 ### 🤝 Social media:
