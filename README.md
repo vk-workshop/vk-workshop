@@ -51,7 +51,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 
 <div>
-   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop&label=VISITORS&countColor=%23f47373&style=flat&labelStyle=upper)
+   ![Visitors]https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop&label=VISITORS&countColor=%23f47373&style=flat&labelStyle=upper
 </div>
 
 
