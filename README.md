@@ -50,8 +50,8 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" /> 
 
 
+   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop&label=VISITORS&countColor=%23f47373&style=flat&labelStyle=upper)
 <div>
-   ![Visitors]https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop&label=VISITORS&countColor=%23f47373&style=flat&labelStyle=upper
 </div>
 
 
