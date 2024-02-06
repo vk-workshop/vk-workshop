@@ -55,3 +55,4 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop&label=VISITORS&labelColor=%23697689&countColor=%23f47373&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvk-workshop%2Fvk-workshop)
 
+[![vk-workshop's GitHub stats](https://github-readme-stats.vercel.app/api?username=vk-workshop)](https://github.com/vk-workshop/github-readme-stats)
