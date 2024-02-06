@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Volodymyr+Kolisnichenko)](https://git.io/typing-svg)
-a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Volodymyr)](https://git.io/typing-svg)
+<div>a passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies: </div>
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
