@@ -51,10 +51,7 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 
 <div>
-   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vk-workshop)
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrkolisnichenko)
 </div>
 
-<div>
-   https://myreadme.vercel.app/api/embed/vk-workshop
-</div>
 
