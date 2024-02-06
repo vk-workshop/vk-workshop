@@ -49,11 +49,11 @@ Feel free to browse through my GitHub repositories to see some of my projects an
 
 
 ### ⚙️ GitHub statistics:
-<!--  <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" />  -->
 <p>
+ <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vk-workshop&layout=compact&theme=vision-friendly-dark" />
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=vk-workshop&theme=tokyonight&card_width=480)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk-workshop&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vk-workshop&theme=dark&card_width=370)](https://git.io/streak-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk-workshop&theme=tokyonight)  -->
 </p>
 
 
