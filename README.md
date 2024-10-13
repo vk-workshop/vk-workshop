@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Volodymyr)](https://git.io/typing-svg)
-<p>A passionate and aspiring programmer with a strong focus on web development. I specialize in the following technologies: </p>
+<p>I am a passionate programmer interested in web development. I focus on the following technologies: </p>
 
 <div>
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp -->
@@ -19,7 +19,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp; -->
 </div>
 
-Feel free to browse through my GitHub repositories to see some of my projects and contributions. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project!
+You can browse my GitHub repositories to see some of my projects and contributions. Feel free to contact me if you have any questions or want to work together on an interesting project!
 
 ### 🤝 Social media:
   <div id="badges">
