@@ -40,7 +40,7 @@
 
 
 ### 💻 Codewars:
-![codewars](https://www.codewars.com/users/futureBoBka/badges/small)
+![codewars](https://www.codewars.com/users/futureBoBka/badges/large)
 
 
 ### ⚙️ GitHub statistics:
